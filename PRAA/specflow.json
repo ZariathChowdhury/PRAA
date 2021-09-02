@@ -1,0 +1,18 @@
+﻿{
+  "URL": "https://create.kahoot.it/auth/register",
+  "STUDENT_BTN": "/html/body/div/div/main/div/div/button[2]/div[2]/span[contains(text(),'Student')]",
+  "MONTH_INPUT": "/html/body/div/div/main/div/form/div[1]/div[1]/div/select[@id='month']",
+  "DAY_INPUT": "/html/body/div/div/main/div/form/div[1]/div[2]/div/select[@id='day']",
+  "YEAR_INPUT": "/html/body/div/div/main/div/form/div[1]/div[3]/div/select[@id='year']",
+  "SUBMIT_BTN": "/html/body/div/div/main/div/form/div[2]/button[@type='submit']",
+  "USERNAME_INPUT": "/html/body/div/div/main/div/form/div[1]/div[1]/div/input[@id='username']",
+  "EMAIL_INPUT": "/html/body/div/div/main/div/div[2]/div/section/div[1]/form/div[1]/input[@id='email']",
+  "PASSWORD_INPUT": "/html/body/div/div/main/div/div/div/section/div[1]/form/div[2]/input[@id='password']",
+  "SIGNUP_BTN": "/html/body/div/div/main/div/div[2]/div/section/div[1]/form/div[3]/button[contains(text(),'Sign up')]",
+  "PROFILE_NAME": "/html/body/div[1]/div/div[2]/div/div/div/div/div[1]/div[1]/div/div[2]/h4",
+  "ERROR_USERNAME": "/html/body/div/div/main/div/form/div[1]/div[1]/div/span[contains(text(),'Username has already been taken, please try another one.')]",
+  "SUGGESTION": "/html/body/div/div/main/div/form/div[1]/div[2]/div/button[1]",
+  "username": "zariath.chowdhury",
+  "domain": "@gmail.com",
+  "pwd": "12345678",
+}
