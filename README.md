@@ -1,4 +1,4 @@
-# PRAA
+# Kahoot Signup Automated Test
 
 ### Prerequisites: 
 .NET Core 3.1 installed, 
